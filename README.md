@@ -22,9 +22,9 @@ I am a Software Engineer based in Boston, MA, poficient in frontend and backend 
 
 ```javascript
 const miriam = {
-  pronouns: ["she" | "her"], 
-  code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, MongoDB], 
+  pronouns: ["she" | "her"] 
+  code: [Javascript, HTML, CSS]
+  tools: [React, Redux, Node, MongoDB] 
   enjoys: [waterRafting, reading, listeningToMusic]
 }
 ```
