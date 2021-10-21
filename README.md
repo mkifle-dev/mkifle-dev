@@ -1,7 +1,7 @@
 # Hi there 👋 ,  I'm Miriam!
 
 <p> 
-I am a Software Engineer based in Boston, MA, poficient in frontend and backend development, with extensive knowledge of Javascript, HTML, and CSS. When I’m not coding, you can find me cozied up with a good book or jamming to great music.
+I am a Software Engineer based in Boston, MA, proficient in frontend and backend development, with extensive knowledge of Javascript, HTML, and CSS. When I’m not coding, you can find me cozied up with a good book or jamming to great music.
 </p> 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love meeting people</b> so don't be shy to say hi. <b>I'll be more than happy to connect!</b> :)</em>
