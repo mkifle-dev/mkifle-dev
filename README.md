@@ -19,7 +19,7 @@ I am a Software Engineer based in Boston, MA, proficient in frontend and backend
 const miriam = {
   pronouns: ["she" | "her"] 
   code: [Javascript, HTML, CSS]
-  tools: [React, Redux, Node, MongoDB] 
+  tools: [React, Node, MongoDB] 
   enjoys: [waterRafting, reading, listeningToMusic]
 }
 ```
