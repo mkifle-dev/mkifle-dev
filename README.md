@@ -25,7 +25,7 @@ const miriam = {
 ```
 
 
-  ![](https://komarev.com/ghpvc/?username=MiriamKifle&style=flat-square)
+<!--   ![](https://komarev.com/ghpvc/?username=MiriamKifle&style=flat-square) -->
 
 <!--
 **MiriamKifle/MiriamKifle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
